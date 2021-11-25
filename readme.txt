@@ -76,6 +76,8 @@ The party of the closest candidate at this seat's last election was ALP.
 
 2. How to run
 
+(update: I've learned you can clone things somehow. Maybe one day I will try this.)
+
 I'm fairly new at this, but these steps should work for most Windows PCs. (If you're on something else, use a YouTube Tutorial)
 
 1. Download the repository
