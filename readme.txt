@@ -74,4 +74,13 @@ The party of the closest candidate at this seat's last election was ALP.
 
 - You can also simulate a general swing in a federal election. Again, you'll have to find out about this yourself.
 
+2. How to run
 
+I'm fairly new at this, but these steps should work for most Windows PCs. (If you're on something else, use a YouTube Tutorial)
+
+1. Download the repository
+2. Make sure the 'main.py' and 'basedatafile.txt' files are in the same place.
+3. At the location where you have saved these files, open the command line at this location by typing in 'cmd' to the address bar in Windows Explorer.
+4. If the command line has something like C:\Users\Dugglez\PycharmProjects\2022Pendulum>, you are in the right place.
+5. Type in 'python main.py' and press enter. The program should start automatically.
+6. After getting past the main page, you should see 151 electorates load. If this happens, you are ready to go.
