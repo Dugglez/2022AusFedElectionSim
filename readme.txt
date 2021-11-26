@@ -20,7 +20,7 @@
 
 1. Features
 
-- Contains data from the 2019 election in the file named "basedatafile.txt". These values are separated by tabs. If you would like to make up your own electorates, you can do so in the following format (tabs between each variable):
+- Contains data from the 2019 election (transcribed from https://en.wikipedia.org/wiki/2022_Australian_federal_election) in the file named "basedatafile.txt". These values are separated by tabs. If you would like to make up your own electorates, you can do so in the following format (tabs between each variable):
 
 Electorate_Name	Electorate_state	Electorate_Incumbent	Electorate_Party_Acronym	Electorate_Competitor_Party	Electorate_Margin
 
